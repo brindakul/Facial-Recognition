@@ -1,0 +1,11 @@
+pip-upgrade
+tensorflow
+keras
+opencv-python
+metrics
+scikit-learn
+numpy
+tqdm
+mtcnn
+keras_vggface
+keras_applications
